@@ -3,7 +3,7 @@
 ---
 
 - Your Name: Your Name
-- GitHub Username: Your GitHub Username
+- GitHub Username: Kstone4216
 - Repository URL: https://
 - Date Submitted: YYYY-MM-DD
 - Collaborators: List any collaborators here (if none, write "None")
