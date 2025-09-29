@@ -47,9 +47,9 @@
 }
 /* Size + crop the hero image */
 .hero__media{
-  max-height: 520px;           /* cap overall height */
+  max-height: 520px;           /* fruit bowl height*/
   border-radius: 18px;
-  overflow: hidden;            /* hide overflow when we crop */
+  overflow: hidden;            /* keeps ths image inside the crop */
 }
 
 .hero__media img{
