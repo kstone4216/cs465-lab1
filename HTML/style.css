@@ -28,7 +28,7 @@
   padding: 6px 12px; border-radius: 999px; font-weight: 600; cursor: pointer;
 }
 .nav__cta:hover{ filter: brightness(.95); }
-/* ===== Hero layout & image sizing ===== */
+/*hero*/
 .hero{
   max-width: 1100px; margin: 0 auto;
   padding: clamp(24px, 6vw, 64px) 16px;
@@ -59,7 +59,7 @@
   display: block;
 }
 
-/* ===== Products grid & image sizing ===== */
+/*products*/
 .products{
   max-width: 1100px; margin: 0 auto;
   padding: clamp(24px, 5vw, 48px) 16px;
