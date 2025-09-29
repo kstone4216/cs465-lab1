@@ -40,18 +40,12 @@
 .hero__title{ margin: 0 0 .25em; font-size: clamp(32px, 6vw, 64px); letter-spacing: -.02em; }
 .hero__subtitle{ color: #6e6e73; margin: 0 0 16px; }
 
-.hero__media img{
-  width: 100%;
-  max-height: 520px;            /* <- cap the hero image height */
-  object-fit: cover;            /* fills the box without distortion */
-  border-radius: 18px;
-  box-shadow: 0 24px 50px rgba(0,0,0,.08);
-}
 
 @media (max-width: 900px){
   .hero{ grid-template-columns: 1fr; }
   .hero__media{ order: -1; }    /* image above text on mobile */
 }
+
 /* ===== Products grid & image sizing ===== */
 .products{
   max-width: 1100px; margin: 0 auto;
