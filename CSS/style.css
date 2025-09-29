@@ -14,7 +14,7 @@
   font-size: 14px; letter-spacing: .01em;
 }
 
-.nav__logo img{ height: 18px; display:block; }  
+.nav__logo img{ height: 40px; display:block; }  
 
 .nav__links{ list-style: none; display: flex; gap: 18px; margin: 0; padding: 0; }
 .nav__links a{
